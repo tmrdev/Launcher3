@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/xml/appwidget_no_config.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/xml/appwidget_no_config.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/xml/appwidget_with_config.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/xml/appwidget_with_config.xml"
+    }
+]

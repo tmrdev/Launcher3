@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi/ic_allapps_pressed.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-xxhdpi/ic_allapps_pressed.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi/widget_resize_frame.9.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-xxhdpi/widget_resize_frame.9.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi/widget_resize_shadow.9.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-xxhdpi/widget_resize_shadow.9.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi/ic_allapps.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-xxhdpi/ic_allapps.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi/ic_widget_resize_handle.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-xxhdpi/ic_widget_resize_handle.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-xxhdpi/workspace_bg.9.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-xxhdpi/workspace_bg.9.png"
+    }
+]

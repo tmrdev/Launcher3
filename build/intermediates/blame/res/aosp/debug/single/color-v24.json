@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/color-v24/all_apps_bg_hand_fill.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/color-v24/all_apps_bg_hand_fill.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/color-v24/all_apps_bg_hand_fill_dark.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/color-v24/all_apps_bg_hand_fill_dark.xml"
+    }
+]

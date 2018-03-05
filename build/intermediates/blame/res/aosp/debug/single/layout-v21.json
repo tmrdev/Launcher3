@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-v21/notification_action.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

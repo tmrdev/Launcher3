@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/raw/db_schema_v10.json",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/raw/db_schema_v10.json"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/raw/cache_data_updated_task_data.txt",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/raw/cache_data_updated_task_data.txt"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/raw/package_install_state_change_task_data.txt",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/raw/package_install_state_change_task_data.txt"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/mipmap-xhdpi/ic_launcher_home_foreground.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/mipmap-xhdpi/ic_launcher_home_foreground.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/mipmap-xhdpi/ic_launcher_home.png",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/mipmap-xhdpi/ic_launcher_home.png"
+    }
+]

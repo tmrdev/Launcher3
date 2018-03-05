@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-land/all_apps_fast_scroller.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout-land/all_apps_fast_scroller.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-land/launcher.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout-land/launcher.xml"
+    }
+]

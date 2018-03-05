@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-v24/ic_info_shadow.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-v24/ic_info_shadow.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-v24/ic_uninstall_shadow.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-v24/ic_uninstall_shadow.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-v24/ic_remove_shadow.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-v24/ic_remove_shadow.xml"
+    }
+]

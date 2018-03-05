@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_info_no_shadow.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_info_no_shadow.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/gutter_horizontal.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/gutter_horizontal.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/bg_celllayout.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/bg_celllayout.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/round_rect_primary.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/round_rect_primary.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_all_apps_bg_icon_2.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_all_apps_bg_icon_2.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/all_apps_button_icon.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/all_apps_button_icon.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/all_apps_divider.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/all_apps_divider.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/widget_internal_focus_bg.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/widget_internal_focus_bg.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_uninstall_no_shadow.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_uninstall_no_shadow.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_setting.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/all_apps_search_hint.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/all_apps_search_hint.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_all_apps_bg_icon_4.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_all_apps_bg_icon_4.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_wallpaper.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_wallpaper.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_all_apps_bg_icon_1.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_all_apps_bg_icon_1.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_star_rating.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_star_rating.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_warning.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/all_apps_search_divider.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/all_apps_search_divider.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_all_apps_bg_icon_3.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_all_apps_bg_icon_3.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_launcher_home.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_launcher_home.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/pending_widget_bg.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/pending_widget_bg.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_allapps_search.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_allapps_search.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/horizontal_ellipsis.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/horizontal_ellipsis.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_remove_no_shadow.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_remove_no_shadow.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_widget.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_widget.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/notification_bg.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/deep_shortcuts_drag_handle.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/deep_shortcuts_drag_handle.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_instant_app_badge.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_instant_app_badge.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/ic_all_apps_bg_hand.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable/ic_all_apps_bg_hand.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable/notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/interpolator/disco_bounce.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/interpolator/disco_bounce.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/interpolator/decelerate_quint.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/interpolator/decelerate_quint.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/interpolator/folder_interpolator.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/interpolator/folder_interpolator.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/interpolator/decelerate_quart.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/interpolator/decelerate_quart.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/interpolator/large_folder_preview_item_open_interpolator.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/interpolator/large_folder_preview_item_open_interpolator.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/interpolator/large_folder_preview_item_close_interpolator.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/interpolator/large_folder_preview_item_close_interpolator.xml"
+    }
+]

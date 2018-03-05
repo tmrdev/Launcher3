@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/anim/task_open_enter.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/anim/task_open_enter.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/anim/no_anim.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/anim/no_anim.xml"
+    }
+]

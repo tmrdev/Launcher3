@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/incremental/mergeAospDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-sw600dp/config.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 38,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-sw600dp/config.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 38,
+                        "endOffset": 50
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 65,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 65,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 64,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 64,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 63,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 63,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 52,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 858,
+                        "endColumn": 52,
+                        "endOffset": 906
+                    }
+                }
+            }
+        ]
+    }
+]

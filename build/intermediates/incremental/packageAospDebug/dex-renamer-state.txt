@@ -1,0 +1,7 @@
+#Tue Feb 27 12:35:19 PKT 2018
+base.0=/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/transforms/dex/aosp/debug/folders/1000/10000/instant-run_b7d9b896cc73f169905b6a24c420e97090908d60
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/transforms/dex/aosp/debug/folders/1000/10000/instant-run-bootstrap_113c6edbc866e97fcaed7cad5f935da85e445532/classes.dex
+base.1=/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/transforms/dex/aosp/debug/folders/1000/10000/instant-run-bootstrap_113c6edbc866e97fcaed7cad5f935da85e445532
+file.0=/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/transforms/dex/aosp/debug/folders/1000/10000/instant-run_b7d9b896cc73f169905b6a24c420e97090908d60/classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/layout/test_layout_appwidget_blue.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/layout/test_layout_appwidget_blue.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/layout/test_layout_appwidget_view.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/layout/test_layout_appwidget_view.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/androidTest/aosp/debug/layout/test_layout_appwidget_red.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/tests/res/layout/test_layout_appwidget_red.xml"
+    }
+]

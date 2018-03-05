@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/HI/Android/android-os-launcher/Launcher3/src/main/shaders"/></dataSet><dataSet config="aosp"><source path="/Users/HI/Android/android-os-launcher/Launcher3/src/aosp/shaders"/></dataSet><dataSet config="debug"><source path="/Users/HI/Android/android-os-launcher/Launcher3/src/debug/shaders"/></dataSet><dataSet config="aospDebug"><source path="/Users/HI/Android/android-os-launcher/Launcher3/src/aospDebug/shaders"/></dataSet></merger>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-sw720dp-v13/all_apps_fast_scroller.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout-sw720dp/all_apps_fast_scroller.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout-sw720dp-v13/launcher.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout-sw720dp/launcher.xml"
+    }
+]

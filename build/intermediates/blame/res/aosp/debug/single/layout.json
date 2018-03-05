@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/widgets_view.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/widgets_view.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/deep_shortcut.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/deep_shortcut.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/user_folder_icon_normalized.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/user_folder_icon_normalized.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/search_container_workspace.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/search_container_workspace.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/workspace_screen.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/workspace_screen.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/folder_page.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/folder_page.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/widget_cell_content.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/widget_cell_content.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/qsb_default_view.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/qsb_default_view.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_fast_scroller.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_fast_scroller.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_button.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_button.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/app_widget_resize_frame.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/app_widget_resize_frame.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/app_icon.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/app_icon.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/zzz_dummy_widget.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/zzz_dummy_widget.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/folder_application.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/folder_application.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/drop_target_bar_horz.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/drop_target_bar_horz.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_discovery_loading_divider.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_discovery_loading_divider.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/zzz_weight_watcher.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/zzz_weight_watcher.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_footer.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/notification_footer.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/system_shortcut.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/system_shortcut.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/system_shortcut_icons.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/system_shortcut_icons.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/widgets_list_row_view.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/widgets_list_row_view.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/page_indicator.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/page_indicator.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/add_item_confirmation_activity.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/add_item_confirmation_activity.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_empty_search.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_empty_search.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/widgets_scroll_container.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/widgets_scroll_container.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/folder_icon.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/folder_icon.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/overview_panel.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/overview_panel.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_media.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/appwidget_error.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/appwidget_error.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_discovery_item.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_discovery_item.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/widget_cell.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/widget_cell.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_divider.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_divider.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/hotseat.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/hotseat.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/gradient_bg.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/drop_target_bar_vert.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/drop_target_bar_vert.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_pref_warning.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/notification_pref_warning.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_icon.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_icon.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/all_apps_search_market.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/all_apps_search_market.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/system_shortcut_icon_only.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/system_shortcut_icon_only.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_main.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/notification_main.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/user_folder.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/user_folder.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/appwidget_not_ready.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/appwidget_not_ready.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/search_container_all_apps.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/search_container_all_apps.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/shortcuts_item.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/shortcuts_item.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/widget_list_divider.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/widget_list_divider.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/notification_media_action.xml",
+        "source": "/Users/HI/.android/build-cache/8d8ca96cb0023096b0f88dca003ee3e84246241a/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/popup_container.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/popup_container.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/layout/widgets_bottom_sheet.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/layout/widgets_bottom_sheet.xml"
+    }
+]

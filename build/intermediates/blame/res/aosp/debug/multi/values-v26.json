@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/incremental/mergeAospDebugResources/merged.dir/values-v26/values-v26.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-v26/bools.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 57,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 57,
+                    "endOffset": 166
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-v26/bools.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 677,
+                        "endColumn": 57,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 171,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-v26/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 606
+                },
+                "from": {
+                    "file": "/Users/HI/Android/android-os-launcher/Launcher3/res/values-v26/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1150
+                    }
+                }
+            }
+        ]
+    }
+]

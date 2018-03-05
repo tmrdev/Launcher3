@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/incremental/mergeAospDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

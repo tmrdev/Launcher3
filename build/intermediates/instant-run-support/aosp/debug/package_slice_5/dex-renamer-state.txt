@@ -1,0 +1,4 @@
+#Tue Feb 27 12:35:19 PKT 2018
+base.0=/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/transforms/dex/aosp/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/transforms/dex/aosp/debug/folders/1000/5/slice_5/classes.dex

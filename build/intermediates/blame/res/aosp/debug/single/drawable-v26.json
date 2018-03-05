@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-v26/ic_launcher_home.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-v26/ic_launcher_home.xml"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-v26/adaptive_icon_drawable_wrapper.xml",
+        "source": "/Users/HI/Android/android-os-launcher/Launcher3/res/drawable-v26/adaptive_icon_drawable_wrapper.xml"
+    }
+]

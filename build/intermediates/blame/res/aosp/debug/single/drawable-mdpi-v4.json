@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/HI/Android/android-os-launcher/Launcher3/build/intermediates/res/merged/aosp/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/HI/.android/build-cache/a342e28981dbd69d068f106d005d28397016e653/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]
